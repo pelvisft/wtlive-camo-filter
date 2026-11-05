@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         WT Live Camo Filter
 // @namespace    https://live.warthunder.com/
-// @version      0.9.2
+// @version      0.9.3
 // @description  Filters camouflages on the War Thunder Live camouflage feed.
 // @match        https://live.warthunder.com/*
 // @run-at       document-start
 // @grant        none
 // @noframes
+// @license      Unlicense
+// @updateURL    https://raw.githubusercontent.com/pelvisft/wtlive-camo-filter/main/WT-Live-Camo-Filter.user.js
+// @downloadURL  https://raw.githubusercontent.com/pelvisft/wtlive-camo-filter/main/WT-Live-Camo-Filter.user.js
 // ==/UserScript==
 
 (function () {

@@ -64,4 +64,5 @@ Scope is limited to `/feed/camouflages/`.
 
 ## License
 
-MIT
+Public domain under the [Unlicense](LICENSE). No attribution required. Do whatever you want
+with it.
